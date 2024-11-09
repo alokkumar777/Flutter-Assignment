@@ -6,30 +6,25 @@ This assignment is designed to build a foundational understanding of **Flutter**
 
 ## Features and Topics Covered
 
-### 1. Basic Dart Programming
-- Understanding and implementing Dart syntax.
-- Working with variables, data types, and basic operators.
-
-### 2. Conditional Statements
+### 1. Conditional Statements
 - Applying `if`, `else if`, and `else` statements for decision-making.
 - Using `switch` cases for multiple conditional paths.
 
-### 3. Loops
+### 2. Loops
 - Implementing `for`, `while`, and `do-while` loops to handle repeated tasks.
 - Practical examples for handling collections with loops.
 
-### 4. Strings
+### 3. Strings
 - Manipulating strings using Dart’s built-in functions.
 - Performing tasks such as concatenation, formatting, and checking string conditions.
 
-### 5. Lists
+### 4. Lists
 - Working with lists for storing and manipulating collections of items.
 - Using Dart list methods for adding, removing, and filtering items.
 
-### 6. Functions
+### 5. Functions
 - Defining reusable functions to keep code modular.
 - Writing functions with parameters and return values.
-- Using anonymous functions and lambda expressions in Dart.
 
 ## Getting Started
 
