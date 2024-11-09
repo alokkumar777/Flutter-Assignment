@@ -29,7 +29,6 @@ This assignment is designed to build a foundational understanding of **Flutter**
 ### 6. Functions
 - Defining reusable functions to keep code modular.
 - Writing functions with parameters and return values.
-- Using anonymous functions and lambda expressions in Dart.
 
 ## Getting Started
 
